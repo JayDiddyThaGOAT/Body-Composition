@@ -4,8 +4,9 @@ Body fat percentage refers to the relative proportions of body weight in terms o
 
 The most accurate means of estimating body fat percentage are cumbersome and require specialized equipment. The “gold standard” is completely submerging a person in water and calculating the volume of the displaced water. This is what this looks like:
 
-Image from:
-![](https://www.fau.edu/education/academicdepartments/eshp/images/underwater.jpg)
+![](https://www.fau.edu/education/academicdepartments/eshp/images/underwater.jpg)\
+Image from: https://www.fau.edu/education/academicdepartments/eshp/images/underwater.jpg
+
 
 Physicians estimate body fat percentage from anatomical measurements (e.g., abdomen circumference) that are much easier to obtain. In this project, you should use a dataset of 13 measurements from subjects (all men) along with their bodyfat percentage. Your goal is to come up with a formula that can be used to estimate bodyfat percentage using only (some or all of) the 13 measurements. (The “density” column should not be used in this project.)
 
